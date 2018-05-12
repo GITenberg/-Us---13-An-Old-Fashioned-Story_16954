@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2147
     wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16954#-Us---13-An-Old-Fashioned-Story
 gutenberg_issued: '2005-10-27'
 gutenberg_type: Text
 identifiers:
